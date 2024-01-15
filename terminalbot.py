@@ -5,9 +5,9 @@ from telegram.ext import MessageHandler, Filters
 from bashterminal import BashTerminal
 
 #Introduce here the token given by bot father
-TOK = 'A'
+TOK = '6671962391:AAGnlN7r8dN4JclhgvaWZWy2Jfeysh4hH6E'
 #Introduce here your user id (you can get it from the bot)
-usr_id = 0
+usr_id = 5631774748
 
 terminal = BashTerminal();
 def main():
